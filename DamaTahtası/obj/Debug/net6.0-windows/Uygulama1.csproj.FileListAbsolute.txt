@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.Form1.resources
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\bin\Debug\net6.0-windows\Uygulama1.exe
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\bin\Debug\net6.0-windows\Uygulama1.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\bin\Debug\net6.0-windows\Uygulama1.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\bin\Debug\net6.0-windows\Uygulama1.dll
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\bin\Debug\net6.0-windows\Uygulama1.pdb
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.dll
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\refint\Uygulama1.dll
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.pdb
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\Uygulama1.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\C#\CSharpCourse\Uygulama1\obj\Debug\net6.0-windows\ref\Uygulama1.dll
